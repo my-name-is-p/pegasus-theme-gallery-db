@@ -36,6 +36,7 @@ https://github.com/RobZombie9043/COLORFUL
 https://github.com/rutantan/zephyr
 https://github.com/SinisterSpatula/pegasus-theme-gpiOS
 https://github.com/TigraTT-Driver/shinretro
+https://github.com/strucep/struceOS-Pegasus-Theme
 https://github.com/travrei/revolutionmenu
 https://github.com/valsou/neoretro
 https://github.com/VGmove/EasyLaunch
